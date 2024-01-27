@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hackathon Task</title>
+    <style>
+        body {
+            background-color: blue;
+            color: white; 
+            margin: 0; 
+        }
+    
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            background-color: rgb(22, 22, 131);
+
+            
+        }
+    
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+    
+        nav li {
+            margin-right: 10px; 
+        }
+    
+        #ab {
+            padding-left:200px;
+            font-size: 75px;
+            width: 700px;
+        }
+    
+        p {
+            padding-left: 200px;
+            width: 500px;
+            font-size: 40px;
+        }
+    
+        #img1 {
+            width: 477px;
+            height: 460px;
+            position: absolute;
+            top: 250px;
+            right: 300px;
+
+        }
+        #b1{
+            background-color: white;
+            color: black;
+            padding-left: 200px;
+           
+        }
+        #ce{
+           
+            font-size: 20px;
+            width: 550px;
+        }
+        #ef{
+            
+            font-size: 20px;
+            width: 550px;
+        }
+        #bc{
+            
+            font-size: 30px;
+            width: 700px;
+
+        }
+        #img2{
+            width: 50px;
+            height: 50px;
+            position: absolute;
+            top: 850px;
+            right: 700px;
+
+        }
+        #par2{
+            top: 850px;
+            right: 650;
+            text-align: right;
+            font-size: 20px;
+
+        }
+        #ij{
+            background-color: white;
+            color: black;
+            padding-left: 200px;
+
+        }
+        #kl{
+            background-color: white;
+            color: black;
+            padding-left: 600px;
+
+
+        }
+        .hea1{
+            top: 850;
+            right: 3500;
+            padding-left: 850px;
+            padding-top: 850;
+        }
+        .tu{
+            float: right;
+            background-color: white;
+
+        }
+        #img3{
+            width: 50px;
+            height: 50px;
+            position: absolute;
+            top: 1000px;
+            right: 700px;
+
+        }
+        #img4{
+             width: 50px;
+            height: 50px;
+            position: absolute;
+            top: 1250px;
+            right: 700px;
+        }
+        #img5{
+            width: 50px;
+            height: 50px;
+            position: absolute;
+            top: 1450px;
+            right: 700px;
+        
+        }
+    </style>
+    
+    
+</head>
+<body>
+    <div>
+
+<header>
+    <h1>ULTIMEZ</h1>
+    <nav>
+        <ul class="ul1">
+            <li>Home</li>
+            <li>Who are we</li>
+            <li>Solutions</li>
+            <li>Portfolio</li>
+            <li>Case Studies</li>
+            <li>Careers</li>
+            <li>Contact Us</li>
+            <li>Login</li>
+        </ul>
+    </nav>
+</header>
+
+<h1 id="ab">Building the Digital<br> Universe</h1>
+<p>With every client we serve, we bring forth a deep
+    passion for creative problem-solving and digital
+    innovations - that's what we deliver. We've great
+    minds at work for the best technologies to make
+    digital easy and impactful.</p>
+<img id="img1" src="R:\GITHUB\figma-design\Default.jpg">
+</div>
+
+
+<div id="b1">
+    <br>
+    <h1 id="bc">We craft digital strategies<br> that turn your brand into a<br> digital sensation</h1>
+    <section id="ce">
+    We are passionate about helping businesses thrive in the digital landscape. Our team of experts is dedicated to providing cutting-edge digital marketing solutions tailored to your unique needs. 
+</section><br><br>
+<section id="ef">With our proven strategies, we'll boost your online presence, engage your target audience, and drive real results.</section>
+
+<div class="tu">
+ 
+   
+    <img id="img2" src="R:\GITHUB\figma-design\figma_images\Frame 2.svg">
+ <img  id="img3" src="R:\GITHUB\figma-design\figma_images\Frame 29-1.svg">
+ <img id="img4" src="R:\GITHUB\figma-design\figma_images\Frame 29.svg">
+ <img id="img5" src="R:\GITHUB\figma-design\figma_images\Frame 12.svg">
+    <h5 >Define Clear Goals and Objectives</h5>
+    <p >Our strategy begins with a crystal-clear roadmap. We work closely with you to define specific, measurable, & achievable goals.</p>
+    
+    <h5>Target Audience</h5>
+    <p id="" >We dive deep to understand your audience, forging connections that transform visitors into loyal customers</p>
+</div>
+    <div id="kl">
+    <input type="text" name="nam" placeholder="*Name">
+    <input type="email" name="mail" placeholder="*Email"><br>
+    <input type="text" name="no" placeholder="Phone Number">
+
+</div>
+</div>
+
+</body>
+</html>
